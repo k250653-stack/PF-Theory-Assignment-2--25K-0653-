@@ -1,0 +1,110 @@
+Enter the size of the Stack
+6
+---------- STACK MENU ----------
+For Push (1)
+For Pop (2)
+For Peek (3)
+For Display (4)
+To Exit (5)
+--------------------------------
+1
+Enter value to push: 1
+1 pushed into stack.
+---------- STACK MENU ----------
+For Push (1)
+For Pop (2)
+For Peek (3)
+For Display (4)
+To Exit (5)
+--------------------------------
+1
+Enter value to push: 2
+2 pushed into stack.
+---------- STACK MENU ----------
+For Push (1)
+For Pop (2)
+For Peek (3)
+For Display (4)
+To Exit (5)
+--------------------------------
+1
+Enter value to push: 3
+3 pushed into stack.
+---------- STACK MENU ----------
+For Push (1)
+For Pop (2)
+For Peek (3)
+For Display (4)
+To Exit (5)
+--------------------------------
+1
+Enter value to push: 4
+4 pushed into stack.
+---------- STACK MENU ----------
+For Push (1)
+For Pop (2)
+For Peek (3)
+For Display (4)
+To Exit (5)
+--------------------------------
+1
+Enter value to push: 5
+5 pushed into stack.
+---------- STACK MENU ----------
+For Push (1)
+For Pop (2)
+For Peek (3)
+For Display (4)
+To Exit (5)
+--------------------------------
+1
+Enter value to push: 6
+6 pushed into stack.
+---------- STACK MENU ----------
+For Push (1)
+For Pop (2)
+For Peek (3)
+For Display (4)
+To Exit (5)
+--------------------------------
+4
+Stack elements: 6 5 4 3 2 1
+---------- STACK MENU ----------
+For Push (1)
+For Pop (2)
+For Peek (3)
+For Display (4)
+To Exit (5)
+--------------------------------
+2
+Popped Value: 6
+---------- STACK MENU ----------
+For Push (1)
+For Pop (2)
+For Peek (3)
+For Display (4)
+To Exit (5)
+--------------------------------
+3
+Top Value: 5
+---------- STACK MENU ----------
+For Push (1)
+For Pop (2)
+For Peek (3)
+For Display (4)
+To Exit (5)
+--------------------------------
+4
+Stack elements: 5 4 3 2 1
+---------- STACK MENU ----------
+For Push (1)
+For Pop (2)
+For Peek (3)
+For Display (4)
+To Exit (5)
+--------------------------------
+5
+Exited Sucessfully!
+--------------------------------
+Process exited after 41.46 seconds with return value 0
+Press any key to continue . . .
