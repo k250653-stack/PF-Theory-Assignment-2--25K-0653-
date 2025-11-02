@@ -1,0 +1,49 @@
+
+--- IESCO Power Grid System ---
+1. Update Sector Status
+2. Query Sector Status
+3. Run System Diagnostic
+4. Exit
+Enter choice: 1
+Enter row and column of sector: 4
+2
+Enter flag to modify (0=Power, 1=Overload, 2=Maintenance): 0
+1 to set, 0 to clear: 1
+Sector updated.
+
+--- IESCO Power Grid System ---
+1. Update Sector Status
+2. Query Sector Status
+3. Run System Diagnostic
+4. Exit
+Enter choice: 2
+Enter row and column to query: 3
+2
+
+Sector (3,2) Status:
+Power: OFF
+Overload: NO
+Maintenance: NO
+
+--- IESCO Power Grid System ---
+1. Update Sector Status
+2. Query Sector Status
+3. Run System Diagnostic
+4. Exit
+Enter choice: 3
+
+System Diagnostic:
+Overloaded sectors: 0
+Maintenance required sectors: 0
+
+--- IESCO Power Grid System ---
+1. Update Sector Status
+2. Query Sector Status
+3. Run System Diagnostic
+4. Exit
+Enter choice: 4
+Exiting...
+
+--------------------------------
+Process exited after 35.91 seconds with return value 0
+Press any key to continue . . .
