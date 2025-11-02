@@ -1,0 +1,78 @@
+
+--- Liberty Books Inventory ---
+1. Add New Book
+2. Process Sale
+3. Show Low Stock
+4. Exit
+Enter choice: 1
+Enter ISBN: 1234567
+Enter Title: The Great Gatsby
+Enter Price: 9.90
+Enter Quantity: 14
+Book added successfully.
+
+--- Liberty Books Inventory ---
+1. Add New Book
+2. Process Sale
+3. Show Low Stock
+4. Exit
+Enter choice: 1
+Enter ISBN: 567433
+Enter Title: Charlie And the Chocolate Factory
+Enter Price: 9.90
+Enter Quantity: 7
+Book added successfully.
+
+--- Liberty Books Inventory ---
+1. Add New Book
+2. Process Sale
+3. Show Low Stock
+4. Exit
+Enter choice: 1
+Enter ISBN: 123890
+Enter Title: Pride & Prejudice
+Enter Price: 8.71
+Enter Quantity: 10
+Book added successfully.
+
+--- Liberty Books Inventory ---
+1. Add New Book
+2. Process Sale
+3. Show Low Stock
+4. Exit
+Enter choice: 2
+Enter ISBN of book sold: 123890
+Enter number of copies sold: 6
+Sale processed. Remaining stock: 4
+
+--- Liberty Books Inventory ---
+1. Add New Book
+2. Process Sale
+3. Show Low Stock
+4. Exit
+Enter choice: 2
+Enter ISBN of book sold: 1234567
+Enter number of copies sold: 4
+Sale processed. Remaining stock: 10
+
+--- Liberty Books Inventory ---
+1. Add New Book
+2. Process Sale
+3. Show Low Stock
+4. Exit
+Enter choice: 3
+
+Low Stock Report (Quantity < 5):
+ISBN: 123890 | Title: Pride & Prejudice | Price: 8.71 | Quantity: 4
+
+--- Liberty Books Inventory ---
+1. Add New Book
+2. Process Sale
+3. Show Low Stock
+4. Exit
+Enter choice: 4
+Exiting program...
+
+--------------------------------
+Process exited after 118.7 seconds with return value 0
+Press any key to continue . . .
