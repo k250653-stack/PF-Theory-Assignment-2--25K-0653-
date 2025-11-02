@@ -1,0 +1,91 @@
+
+--- Supermarket Menu ---
+1. Enter Customer Info
+2. Show Inventory
+3. Add Item to Cart
+4. Show Total Bill
+5. Show Invoice
+6. Exit
+Enter choice: 1
+Enter customer name: Hamza Siddiqui
+Enter customer CNIC(In Format xxxxx-xxxxxxx-x): 42101-9714268-7
+
+--- Supermarket Menu ---
+1. Enter Customer Info
+2. Show Inventory
+3. Add Item to Cart
+4. Show Total Bill
+5. Show Invoice
+6. Exit
+Enter choice: 2
+
+Item Code | Quantity | Price
+1               50              100.00
+2               10              200.00
+3               20              300.00
+4               8               150.00
+
+--- Supermarket Menu ---
+1. Enter Customer Info
+2. Show Inventory
+3. Add Item to Cart
+4. Show Total Bill
+5. Show Invoice
+6. Exit
+Enter choice: 3
+Enter item code: 1
+Enter quantity: 10
+Item added to cart.
+
+--- Supermarket Menu ---
+1. Enter Customer Info
+2. Show Inventory
+3. Add Item to Cart
+4. Show Total Bill
+5. Show Invoice
+6. Exit
+Enter choice: 3
+Enter item code: 4
+Enter quantity: 7
+Item added to cart.
+
+--- Supermarket Menu ---
+1. Enter Customer Info
+2. Show Inventory
+3. Add Item to Cart
+4. Show Total Bill
+5. Show Invoice
+6. Exit
+Enter choice: 4
+Do you have a promo code? (enter or press Enter to skip): Eid2025
+Total Bill: 2050.00
+Discounted Bill: 1537.50
+
+--- Supermarket Menu ---
+1. Enter Customer Info
+2. Show Inventory
+3. Add Item to Cart
+4. Show Total Bill
+5. Show Invoice
+6. Exit
+Enter choice: 5
+
+--- INVOICE ---
+Customer Name: Hamza Siddiqui
+CNIC: 42101-9714268-7
+Total Bill: 2050.00
+Discounted Bill: 1537.50
+
+--- Supermarket Menu ---
+1. Enter Customer Info
+2. Show Inventory
+3. Add Item to Cart
+4. Show Total Bill
+5. Show Invoice
+6. Exit
+Enter choice: 6
+Exiting...
+
+--------------------------------
+Process exited after 71.33 seconds with return value 0
+Press any key to continue . . .
