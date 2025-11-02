@@ -1,0 +1,31 @@
+=======TCS Security System (Message Encryption)=======
+PRESS: 1 To Encrypt a text
+PRESS: 2 To Decrypt a text
+PRESS: 3 To Exit The Program
+1
+
+Enter the Text that You want to Encrypt:
+RiderIsReadyForDelivery
+
+Encrypted Text: ]VARMHA`VKb]@EAvWmVA@Mv
+=======TCS Security System (Message Encryption)=======
+PRESS: 1 To Encrypt a text
+PRESS: 2 To Decrypt a text
+PRESS: 3 To Exit The Program
+2
+
+Enter the Text that You want to Decrypt:
+]VARMHA`VKb]@EAvWmVA@Mv
+
+Decrypted Text: RiderIsReadyForDelivery
+=======TCS Security System (Message Encryption)=======
+PRESS: 1 To Encrypt a text
+PRESS: 2 To Decrypt a text
+PRESS: 3 To Exit The Program
+3
+
+Exiting the Program....
+
+--------------------------------
+Process exited after 29.75 seconds with return value 0
+Press any key to continue . . .
